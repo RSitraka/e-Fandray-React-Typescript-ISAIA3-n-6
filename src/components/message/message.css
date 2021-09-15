@@ -1,0 +1,33 @@
+body{
+    font-family: calibri;
+    background-color: #222;
+}
+
+p{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(0, 103, 221);
+    color: white;
+}
+
+#mess{
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+input{
+    border: none;
+    border-radius: 7px;
+    width: 250px;
+    height: 25px;
+}
+
+#send{
+    background-color: rgb(6, 231, 100);
+    color: white;
+    width: 150px;
+    height: 25px;
+    border: none;
+    border-radius: 7px;
+    font-size: 15px;
+}
