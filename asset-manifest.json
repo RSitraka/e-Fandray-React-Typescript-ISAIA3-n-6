@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/css/main.90f422c5.chunk.css",
+    "main.js": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/main.6e616bd4.chunk.js",
+    "main.js.map": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/main.6e616bd4.chunk.js.map",
+    "runtime-main.js": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/runtime-main.956593bd.js",
+    "runtime-main.js.map": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/runtime-main.956593bd.js.map",
+    "static/js/2.e7e26d07.chunk.js": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/2.e7e26d07.chunk.js",
+    "static/js/2.e7e26d07.chunk.js.map": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/2.e7e26d07.chunk.js.map",
+    "static/js/3.98fe3638.chunk.js": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/3.98fe3638.chunk.js",
+    "static/js/3.98fe3638.chunk.js.map": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/3.98fe3638.chunk.js.map",
+    "index.html": "/e-Fandray-React-Typescript-ISAIA3-n-6/index.html",
+    "static/css/main.90f422c5.chunk.css.map": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/css/main.90f422c5.chunk.css.map",
+    "static/js/2.e7e26d07.chunk.js.LICENSE.txt": "/e-Fandray-React-Typescript-ISAIA3-n-6/static/js/2.e7e26d07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.956593bd.js",
+    "static/js/2.e7e26d07.chunk.js",
+    "static/css/main.90f422c5.chunk.css",
+    "static/js/main.6e616bd4.chunk.js"
+  ]
+}
